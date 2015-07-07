@@ -26,7 +26,7 @@
             {.section logoImageUrl}
               <h1 id="logoImage"><a href="/"><img src="{logoImageUrl}?format=1500w" alt="{siteTitle}" /></a></h1>
             {.or}
-              <h1 id="siteTitle" class="site-title"><a href="/">{siteTitle}</a></h1>
+              <h1 id="1siteTitle" class="site-title"><a href="/">{siteTitle}</a></h1>
             {.end}
           </div>{.end}<!-- comment the linebreak between these two elements because science
           --><label for="mobileNavToggle" class="mobile-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><label for="mobileNavToggle" class="mobile-nav-toggle-label fixed-nav-toggle-label"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
